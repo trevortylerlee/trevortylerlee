@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=trevortylerlee&label=👀&style=plastic&color=3E5C3F)
 
 <!--
 **trevortylerlee/trevortylerlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
